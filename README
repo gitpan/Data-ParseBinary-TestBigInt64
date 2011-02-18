@@ -1,0 +1,45 @@
+Data-ParseBinary-TestBigInt64
+
+Testing Bug 49569 of Math::BigInt
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Data::ParseBinary::TestBigInt64
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Data-ParseBinary-TestBigInt64
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Data-ParseBinary-TestBigInt64
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Data-ParseBinary-TestBigInt64
+
+    Search CPAN
+        http://search.cpan.org/dist/Data-ParseBinary-TestBigInt64/
+
+
+LICENSE AND COPYRIGHT
+
+Copyright (C) 2011 Shmuel Fomberg
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See http://dev.perl.org/licenses/ for more information.
+

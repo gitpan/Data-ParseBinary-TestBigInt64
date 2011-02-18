@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Data/ParseBinary/TestBigInt64.pm
+t/01-basic.t
+META.yml                                 Module meta-data (added by MakeMaker)
