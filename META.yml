@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Data-ParseBinary-TestBigInt64
-version:            0.01
+version:            0.02
 abstract:           Testing Bug 49569 of Math::BigInt
 author:
     - Shmuel Fomberg <semuelf@cpan.org>
